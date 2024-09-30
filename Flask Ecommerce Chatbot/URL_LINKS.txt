@@ -1,0 +1,80 @@
+love seat   #https://www.urbanladder.com/loveseats
+            #https://www.woodenstreet.com/loveseats
+            # https://www.amazon.in/loveseat/s?k=loveseat 
+
+Sofa bed    # https://www.woodenstreet.com/sofa-cum-beds?gclid=Cj0KCQjwtamlBhD3ARIsAARoaEzSV4czY2_BOC5SZnzDIpJ31-DlzkB2jU5n1PTedk_QK7a7BvgsxugaAmC1EALw_wcB
+            #https://www.flipkart.com/furniture/sofa-beds/pr?sid=wwe,osg
+            #https://www.urbanladder.com/sofa-cum-bed
+
+Recliner Sofa   #https://www.amazon.in/s?k=recliner+sofa
+                #https://www.urbanladder.com/recliners
+                #https://www.pepperfry.com/category/recliners.html
+
+Settee Sofa     #https://www.flipkart.com/q/sofa-settee
+               #https://damroindia.com/ap/living-room/sofa.html?gclid=Cj0KCQjwtamlBhD3ARIsAARoaEz1FFQhCEp7KsEz-wmMVJpt_B03LeCzFquxNBjRwS9Gph9AeFAOZjYaAljAEALw_wcB
+               #https://www.woodenstreet.com/settees 
+
+Books (novel)         #https://www.amazon.in/Best-Novels-in-English/s?k=Best+Novels+in+English
+                      #https://www.bookswagon.com/search-books/novel
+                      #https://www.flipkart.com/search?q=novels&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
+                                         
+Books(friction)       #https://www.amazon.in/literature-fiction-books/b?ie=UTF8&node=1318157031
+                      #https://www.flipkart.com/books/~best-selling-fiction/pr?sid=bks
+                      #https://www.bookswagon.com/fiction-books
+
+Books(fancy)           #https://www.amazon.in/Books-fancy/s?rh=n%3A976389031%2Cp_27%3Afancy 
+                       #https://www.bookswagon.com/search-books/fancy
+                       #https://www.raajkart.com/books/children-books/early-readers-pre-school-2-5-years/fancy-books.html 
+
+
+Laptop(HP)            #https://www.hp.com/in-en/shop/laptops-tablets.html
+                      #https://www.flipkart.com/search?q=hp+laptop&sid=6bo%2Cb5g&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&as-pos=1&as-type=RECENT&suggestionId=hp+laptop%7CLaptops&requestId=9753e01a-74fb-4978-ba7e-da1baceea63a&as-searchtext=HP%20
+                      #https://www.amazon.in/s?k=hp&crid=11ZQ79BWUK1I7&sprefix=hp%2Caps%2C364&ref=nb_sb_noss_1
+
+Laptop (macbook)     #https://www.apple.com/in/macbook-pro/
+                     #https://www.flipkart.com/search?q=macbook&sid=6bo%2Cb5g&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_ps&as-pos=1&as-type=RECENT&suggestionId=macbook%7CLaptops&requestId=202b7b05-2e5c-4175-b3ec-3c9038d1235e&as-searchtext=mac
+                     #https://www.amazon.in/s?k=macbook&crid=17TRK36MQNGGW&sprefix=macbook%2Caps%2C574&ref=nb_sb_noss_1
+
+TV(LCD)               #https://www.amazon.in/s?k=LCD+tv&rh=n%3A1318157031&ref=nb_sb_noss
+                      #https://www.flipkart.com/televisions/lcd~screentype/pr?sid=ckf%2Cczl&page=5
+                      #https://dir.indiamart.com/impcat/lcd-television.html
+
+TV(LED)              #https://www.amazon.in/s?k=LED+tv&rh=n%3A1318157031&ref=nb_sb_noss 
+                     #https://dir.indiamart.com/search.mp?ss=LED+TV&mcatid=30517&catid=762&prdsrc=1&stype=attr=1|attrS&res=RC4
+                     #https://gostor.com/search?searchQuery=LED%20TV
+
+Foundation(Lakme)     #https://www.lakmeindia.com/collections/foundations
+                      #https://www.tirabeauty.com/products/?q=lakme%20foundation
+                      #https://www.myntra.com/lakme-foundation
+
+Foundation(maybelline) #https://www.amazon.in/Maybelline-Poreless-Liquid-Foundation-Natural/dp/B07L419N74
+                       #https://www.tirabeauty.com/products/?q=Foundation%20maybelline 
+                       #https://www.myntra.com/maybelline-foundation 
+
+shoes(crocks)           #https://www.amazon.in/s?k=crocks+shoes&rh=n%3A1318157031&ref=nb_sb_noss
+                        #https://www.myntra.com/crocks?rawQuery=crocks
+                        #https://www.crocs.in/sale.html?page=1&utm_source=google&utm_medium=cpc&utm_campaign=sales&utm_id=Adwords&gad=1&gclid=Cj0KCQjwtamlBhD3ARIsAARoaEzGWsj01iVJN7hYC36SXDcb6DsouwhB8n7mU9_RCMIKG6puxyXDLcEaAjvDEALw_wcB
+                        
+Shoes(heels)             #https://www.ajio.com/women-heeled-shoes/c/830307009
+                        #https://www.myntra.com/heels?rawQuery=heels
+                        #https://www.flipkart.com/search?q=heels+for+women&sid=osp%2Ciko%2C6q1&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_2_5_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_2_5_na_na_na&as-pos=2&as-type=RECENT&suggestionId=heels+for+women%7CHeels&requestId=f9a61776-c5ed-44c5-877f-93cc29ddb3de&as-searchtext=heals
+
+Perfume (reene)        #https://www.amazon.in/RENEE-Parfum-Premium-Lasting-Perfume/dp/B0B5NBF5RR
+                        #https://www.reneecosmetics.in/collections/fragrances
+                        #https://www.nykaa.com/search/result/?q=renee&root=search&searchType=Manual&sourcepage=product
+
+Perfume (engage)        #https://www.amazon.in/s?k=engage&i=beauty&crid=14S2WDTQ8846B&sprefix=engage%2Cbeauty%2C454&ref=nb_sb_noss_1
+                        #https://www.engageshop.in/all-products?gclid=Cj0KCQjwtamlBhD3ARIsAARoaExA5RTHDMecBCkU80kRbNMVfucGqlc4LYWGIvvi2EEZTOgzrPk80G8aAhPqEALw_wcB
+                        #https://www.flipkart.com/beauty-and-personal-care/fragrances/perfumes/engage~brand/pr?sid=t06,r3o,aa1
+
+Dress(maxi)            #https://www.myntra.com/maxi-dresses
+                       #https://www.flipkart.com/search?q=Dress%28maxi%29%20&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
+                       #https://www.faballey.com/clothing/women-dresses/maxi-dresses/cat 
+
+Dress(shorts)          #https://www.amazon.com/dress-shorts/s?k=dress+shorts 
+                       #https://www.myntra.com/dress-shorts
+                       #https://www.flipkart.com/q/short-night-dress
+                       
+Dress(jeans)           #https://www.amazon.in/s?k=jeans&crid=3M8M0GT1V733M&sprefix=jeans+%2Caps%2C636&ref=nb_sb_noss_2 
+                       #https://www.flipkart.com/search?q=Dress%28jeans%29&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
+                       #https://www.myntra.com/jeans?rawQuery=jeans 
